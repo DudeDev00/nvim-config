@@ -1,7 +1,5 @@
 # nvim-config
 
----
-
 Ready to use neovim nvchad config!
 
 Usage : Lua, C and C++
@@ -9,8 +7,6 @@ Usage : Lua, C and C++
 Build from [Programming Rainbow's](https://github.com/ProgrammingRainbow/NvChad-2.5) config.
 
 ## Install
-
----
 
 Make sure you have Neovim and NvChad installed on your system.
 
@@ -45,11 +41,7 @@ Change ignore_install list.
 
         git clone https://github.com/DudeDev00/nvim-config ~/.config/nvim/
 
----
-
 #### By NvChad
-
----
 
 This repo is supposed to used as config by NvChad users!
 
